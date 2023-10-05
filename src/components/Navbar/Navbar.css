@@ -1,0 +1,8 @@
+.btn-sign {
+  border: 2px solid #ff0000;
+  border-radius: 25px;
+  padding: 10px;
+  border-width: 3px;
+  width: 150px;
+  color: #ff0000;
+}
