@@ -1,0 +1,46 @@
+.plan {
+  margin-bottom: 100px;
+}
+
+@media only screen and (min-width: 1440px) {
+  .items-center {
+    text-align: center;
+  }
+  .description {
+    text-align: center;
+  }
+  .btn-btn {
+    border-radius: 10px;
+    padding: 15px;
+    border-width: 3px;
+    width: 250px;
+    background-color: #ff0000;
+    color: white;
+  }
+/* desktop view to center the image box */
+  .img-box img {
+    text-align: center;
+    margin-left: 160px;
+  }
+  /* desktop view to center the btn */
+  .btn-btn {
+    margin-left: 100px;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  .items-center {
+    text-align: center;
+  }
+  .description {
+    text-align: center;
+  }
+  .img-box img {
+    text-align: center;
+    margin-left: 20px;
+  }
+}
+
+
+

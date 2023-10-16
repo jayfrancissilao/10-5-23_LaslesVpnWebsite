@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Free Plan",
+    "description": "Free"
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "description": "$9 / mo"
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "description": "$12 / mo"
+  }
+]
